@@ -18,10 +18,3 @@ N24 yangiliklar sayti Mohirdev onlayn o'quv  platformasining Frontend Praktikum 
   26.02.2024 y. Rejalashtirilgan ishlar:<br>
     Saytning Header qism codeini yozish<br>
     Stillarini berish<br>
-
-<style>
-  h1 {
-    font-size: 24px;
-    font-style: italic;
-  }
-</style>
