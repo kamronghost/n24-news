@@ -22,6 +22,6 @@ N24 yangiliklar sayti Mohirdev onlayn o'quv  platformasining Frontend Praktikum 
 <style>
   h1 {
     font-size: 24px;
-    color: red;
+    color: #rrggbb;
   }
 </style>
