@@ -20,3 +20,7 @@ N24 yangiliklar sayti Mohirdev onlayn o'quv  platformasining Frontend Praktikum 
     Stillarini berish<br>
 <h2>Sayt header top</h2>
 <p>Saytning header-top qismi ya'ni logotip valyuta kursi qidiruv paneli qo'yilmadi tilni tanlash hamda button qismi tayyorlandi</p>
+<br>
+<hr>
+29.02.2024 y. Form qismini ulash<br>
+<p> Sayttning header qismidagi qidirov panelini ulash hamda stillarini to'g'rilash</p>
