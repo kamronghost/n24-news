@@ -24,3 +24,5 @@ N24 yangiliklar sayti Mohirdev onlayn o'quv  platformasining Frontend Praktikum 
 <hr>
 29.02.2024 y. Form qismini ulash<br>
 <p> Sayttning header qismidagi qidirov panelini ulash hamda stillarini to'g'rilash</p>
+02.03.2024 y. New-grid<br>
+<p>Saytning News-grid qismiga rasmlar ulandi stillar berildi</p>
